@@ -1,0 +1,945 @@
+This dataset primarily consists of two folders that can be used to train and evaluate image classifications models (cats vs. dogs, of course). The files in the training images folder have already been classified, while those in the test images folder are not.
+
+
+This dataset also contains another folder of example file types that have built-in previews on Redivis. You can upload any file type to Redivis, and download these files and work with them in your notebooks. However, we endeavor to provide interactive previews for common file types when it is feasible in a web browser environment. Contact us if youd like to see a preview added for a new file format!
+
+
+Beyond previewing and downloading files, many use cases will utilize the redivis-python and redivis-r client libraries to stream files to a computational environment (either within Redivis notebooks or elsewhere) for further analysis.
+Text files of different size and structure. More precisely, we selected random data from the Gutenberg dataset. This artefact contains five different datasets with random text files ( e-books in .txt format) from the Gutenberg database. The datasets that we selected ranged from text files with a total size of 184MB to a set of text files with a total size of 1.7GB. More precisely, the following datasets can be found in this package: 1. 184MB 2. 357MB 3. 670MB 4. 1GB 5. 1.7GB In our case, we used this dataset to perform extensive experiments on regarding the performance of a Symmetric Searchable Encryption scheme. However, this dataset can be used to measure the performance of any algorithm that is parsing documents, extracting keywords, creates dictionaries etc.
+Iris is a web based classification system. The system is a bayes classifier and calculates (and compare) the decision based upon conditional probability of the decision options. This system currently classify 3 groups of flowers from the iris dataset depending upon a few selected features. The concept which makes Iris stand out is the use of a window. A window is incorporated along with the threshold while sampling. The window helps using a small dataset and emulate more samples.
+
+The future versions will make an option to upload the dataset and select the features to help researchers select the best features for data classification.
+Essay, an analytic, interpretative, or critical literary composition usually much shorter and less systematic and formal than a dissertation or thesis and usually dealing with its subject from a limited and often personal point of view.
+
+Some early treatises—such as those of Cicero on the pleasantness of old age or on the art of “divination,” Seneca on anger or clemency, and Plutarch on the passing of oracles—presage to a certain degree the form and tone of the essay, but not until the late 16th century was the flexible and deliberately nonchalant and versatile form of the essay perfected by the French writer Michel de Montaigne. Choosing the name essai to emphasize that his compositions were attempts or endeavours, a groping toward the expression of his personal thoughts and experiences, Montaigne used the essay as a means of self-discovery. His Essais, published in their final form in 1588, are still considered among the finest of their kind. Later writers who most nearly recall the charm of Montaigne include, in England, Robert Burton, though his whimsicality is more erudite, Sir Thomas Browne, and Laurence Sterne, and in France, with more self-consciousness and pose, André Gide and Jean Cocteau.
+At the beginning of the 17th century, social manners, the cultivation of politeness, and the training of an accomplished gentleman became the theme of many essayists. This theme was first exploited by the Italian Baldassare Castiglione in his Il libro del cortegiano (1528; The Book of the Courtier). The influence of the essay and of genres allied to it, such as maxims, portraits, and sketches, proved second to none in molding the behavior of the cultured classes, first in Italy, then in France, and, through French influence, in most of Europe in the 17th century. Among those who pursued this theme was the 17th-century Spanish Jesuit Baltasar Gracián in his essays on the art of worldly wisdom.
+
+Keener political awareness in the 18th century, the age of Enlightenment, made the essay an all-important vehicle for the criticism of society and religion. Because of its flexibility, its brevity, and its potential both for ambiguity and for allusions to current events and conditions, it was an ideal tool for philosophical reformers. The Federalist Papers in America and the tracts of the French Revolutionaries are among the countless examples of attempts during this period to improve the human condition through the essay.
+
+The genre also became the favoured tool of traditionalists of the 18th and 19th centuries, such as Edmund Burke and Samuel Taylor Coleridge, who looked to the short, provocative essay as the most potent means of educating the masses. Essays such as Paul Elmer More’s long series of Shelburne Essays (published between 1904 and 1935), T.S. Eliot’s After Strange Gods (1934) and Notes Towards the Definition of Culture (1948), and others that attempted to reinterpret and redefine culture, established the genre as the most fitting to express the genteel tradition at odds with the democracy of the new world.
+
+Whereas in several countries the essay became the chosen vehicle of literary and social criticism, in other countries the genre became semipolitical, earnestly nationalistic, and often polemical, playful, or bitter. Essayists such as Robert Louis Stevenson and Willa Cather wrote with grace on several lighter subjects, and many writers—including Virginia Woolf, Edmund Wilson, and Charles du Bos—mastered the essay as a form of literary criticism.
+Vasily Vasilyevich Rozanov (born May 2 [April 20, Old Style], 1856, Vetluga, Russian Empire—died Feb. 5, 1919, Sergiyev, Russian S.F.S.R.) was a Russian writer, religious thinker, and journalist, best known for the originality and individuality of his prose works.
+
+Rozanov was born into the family of a provincial official of limited means. His parents died before he turned 15. He attended secondary schools in Kostroma, Simbirsk, and Nizhny Novgorod and in 1882 graduated from the University of Moscow. He later taught history and geography in secondary schools in the Russian provinces. In 1893 he moved to St. Petersburg, where he became a government official, but he resigned in 1899 at the urging of A.S. Suvorin, the proprietor of the newspaper Novoye Vremya (“New Time”). Rozanov remained a regular contributor until the newspaper was shut down by the Bolsheviks in October 1917.
+
+His first published work, O ponimanii (1886; “On Understanding”), was a philosophical treatise; it went almost completely unnoticed. From the beginning of the 1890s, Rozanov began publishing widely, mainly in conservative publications, becoming a renowned literary figure within conservative circles. He owed his fame, however, not so much to articles on contemporary topics as to his research in the field of literature (e.g., Legenda o velikom inkvisitore F.M. Dostoyevskogo [1894; Dostoevsky and the Legend of the Grand Inquisitor] and Literaturnye ocherki [1899; “Literary Essays”]). He also wrote articles on Russian schooling, including “Sumerki prosveshcheniya” (1899; “Twilight of Education”), and a book on family life, Semeyny vopros v Rossii, 2 vol. (1903; “The Family Question in Russia”). Out of the latter came one of the subjects he analyzed most deeply—that of sex. His interest in the problems of family life was triggered partly by his personal experiences: he married early but was unable to obtain a divorce, which forced him to marry his second wife in secret; his children from his second marriage were therefore considered “illegitimate.” In his work on family life, Rozanov went beyond the question of society’s and the church’s attitude toward sexuality. He emphasized the sanctity of the sexual act, which he believed was being perverted by certain aspects of human nature and culture. His interest in these matters, as in matters of religion, brought Rozanov close to Russian Symbolism. He was a member and a regular speaker at meetings of St. Petersburg’s Religious-Philosophical Society, and he published in magazines such as Novy Put (“The New Path”), Vesy (“Libra,” or “Scales”), and Zolotoye Runo (“The Golden Fleece”).
+
+From 1912 Rozanov began publishing books consisting of whimsically composed fragments that ranged from a few words to two or three pages; although unusual in Russia for their time, they are reminiscent of the writings of German philosopher Friedrich Nietzsche. Uyedinyonnoye (1912; “Solitary Thoughts”; Eng. trans. Solitaria) and Opavshiye listya (1913–15; Fallen Leaves) give the impression of maximum openness and intimacy, and their complexity of meaning arises from contradictory statements. They made him famous as the creator of a new literary genre.
+
+Rozanov was a symbol of contradiction to most Russian readers at the beginning of the 20th century. He was a deeply religious man throughout his life, but he also fought with the church; his interest in Jews and Judaism sometimes turned to anti-Semitism; and his political conservatism coexisted with his sharp criticism of autocracy. He also contributed to publications of markedly different political convictions.
+
+After the Bolsheviks shut down Suvorin’s Novoye Vremya, Rozanov and his family moved to Sergiyev, near the Trinity-St. Sergius monastery, one of the main holy centres of the Russian Orthodox Church. He published Apokalipsis nashego vremeni (1917–18; “The Apocalypse of Our Time”), which did not bring him a profit. He had no regular income, and he died in poverty. Many of his works remained in manuscript and were first published in the 1990s.
+Introduction:
+The Indian Constitution stands as a testament to the nations commitment to democracy, justice, and equality. Enacted on January 26, 1950, it represents the aspirations and values of a diverse and dynamic nation. Crafted through meticulous deliberation and drawing inspiration from various sources, including Indias rich cultural heritage and democratic ideals from around the world, the Indian Constitution is a remarkable document that continues to guide the nation towards progress and inclusivity.
+
+Historical Context:
+The journey towards the creation of the Indian Constitution was marked by years of struggle and sacrifice. Emerging from a colonial past, India sought to establish a system of governance that would safeguard the rights and liberties of its citizens. The Constituent Assembly, comprising visionaries from diverse backgrounds, played a pivotal role in shaping the constitutional framework. Led by Dr. B.R. Ambedkar, the drafting committee meticulously crafted a document that reflected the hopes and aspirations of the people.
+
+Key Features:
+The Indian Constitution is renowned for its comprehensive nature and visionary principles. It enshrines the fundamental rights of citizens, guaranteeing equality before the law, freedom of speech and expression, and the right to life and liberty. Additionally, it outlines the directive principles of state policy, guiding the government in promoting social justice, economic welfare, and environmental sustainability. The Constitution also establishes a robust system of checks and balances, with separate branches of government ensuring accountability and transparency.
+
+Federal Structure:
+One of the distinctive features of the Indian Constitution is its federal structure, which balances the powers between the central and state governments. Through a system of division of powers, it delineates the responsibilities of each tier of government, ensuring cooperation and autonomy. This federal arrangement has been instrumental in accommodating the diverse needs and aspirations of Indias vast and heterogeneous population.
+
+Amendment Process:
+Flexibility and adaptability are inherent in the Indian Constitution, as evidenced by its amendment process. While providing a stable foundation, it also allows for necessary changes to meet evolving societal needs. Over the years, the Constitution has been amended to address emerging challenges and strengthen democratic institutions. However, this process is governed by stringent procedures to uphold the integrity of the constitutional framework.
+
+Challenges and Evolution:
+Despite its resilience, the Indian Constitution has faced numerous challenges throughout its history. From issues of social inequality to threats to democratic principles, each challenge has tested the nations commitment to its constitutional ideals. However, through judicial activism, social movements, and legislative reforms, the Constitution has evolved to address these challenges, reaffirming its relevance in a dynamic and rapidly changing world.
+
+Conclusion:
+In conclusion, the Indian Constitution stands as a beacon of hope and resilience, guiding the nation on its journey towards progress and prosperity. Rooted in democratic principles and inclusive values, it embodies the collective aspirations of a diverse and vibrant nation. As India continues to march forward, the Constitution remains a steadfast guardian of rights and liberties, ensuring that the promise of justice, equality, and fraternity is upheld for generations to come.
+
+
+
+
+
+Certainly! Lets explore the topic of "the biggest animals" further.
+
+Title: Giants of the Animal Kingdom: Exploring the Worlds Largest Creatures
+
+Introduction:
+The natural world is home to an astounding array of creatures, from the smallest insects to the largest mammals. Among them, certain species stand out for their sheer size and magnificence. These giants of the animal kingdom inspire awe and wonder, captivating our imagination and reminding us of the incredible diversity of life on Earth. In this essay, we will embark on a journey to discover some of the largest animals that inhabit our planet and explore the fascinating adaptations that enable them to thrive in their respective environments.
+
+The Blue Whale:
+At the top of the list of the worlds largest animals reigns the blue whale (Balaenoptera musculus), the undisputed heavyweight champion of the animal kingdom. With a length reaching up to 100 feet (30 meters) and a weight of over 200 tons, the blue whale dwarfs even the largest dinosaurs. These majestic marine mammals roam the worlds oceans, their immense size made possible by a diet consisting mainly of tiny krill. Despite their enormous size, blue whales exhibit grace and agility as they glide effortlessly through the water, their colossal bodies propelled by powerful tail flukes.
+
+The African Elephant:
+On land, the African elephant (Loxodonta africana) holds the title of the largest terrestrial animal. These gentle giants can reach heights of up to 13 feet (4 meters) at the shoulder and weigh as much as 6 tons. Known for their distinctive large ears, elongated trunk, and formidable tusks, African elephants play a crucial role in shaping their ecosystems. From the savannas of Africa to the dense forests of the Congo Basin, these magnificent creatures embody strength, intelligence, and social complexity, forming tight-knit family groups led by matriarchs.
+
+The Saltwater Crocodile:
+In the realm of reptiles, the saltwater crocodile (Crocodylus porosus) stands out as the largest living crocodilian species. Found in the brackish waters of Southeast Asia, Northern Australia, and the eastern coast of India, these formidable predators can grow to lengths exceeding 20 feet (6 meters) and weigh over a ton. With powerful jaws capable of delivering bone-crushing bites and a stealthy hunting strategy, saltwater crocodiles command respect as apex predators in their aquatic habitats.
+
+The Giant Squid:
+Delving into the depths of the ocean, we encounter another colossal creature—the giant squid (Architeuthis dux). With eyes the size of dinner plates and tentacles stretching up to 43 feet (13 meters) in length, the giant squid is a formidable denizen of the deep. Despite its elusive nature, scientists have been able to study these enigmatic creatures through specimens washed ashore and rare encounters in the oceans abyssal depths. Adapted to life in the dark, icy waters of the deep sea, the giant squid is a testament to the mysteries that lie beneath the surface of our oceans.
+
+Conclusion:
+From the vast expanse of the oceans to the dense jungles of Africa, the worlds largest animals captivate our imagination and remind us of the wonders of the natural world. Whether soaring through the skies, roaming the savannas, or prowling the depths of the ocean, these magnificent creatures inspire awe and reverence. As stewards of the planet, it is our responsibility to ensure the survival of these majestic giants and preserve the delicate balance of life on Earth.
+Title: A Lexicon of Life: Exploring the Diversity of Animal Names
+
+Introduction:
+In the vast tapestry of life on Earth, every species has a name, a unique identifier that distinguishes it from others and reflects its place in the intricate web of biodiversity. From the tiniest insect to the largest mammal, from the depths of the oceans to the highest mountaintops, the animal kingdom encompasses a breathtaking array of creatures, each with its own name and story. In this essay, we embark on a journey through the alphabet of animal names, celebrating the diversity, beauty, and wonder of the natural world.
+
+Aardvark to Axolotl:
+We begin our exploration with the letter A, where we encounter the aardvark, a nocturnal mammal native to Africa, whose name is derived from Afrikaans and means "earth pig." Moving along, we encounter the axolotl, a unique amphibian native to Mexico, whose name comes from the Aztec Nahuatl language and means "water monster." In these names, we catch a glimpse of the cultural and linguistic diversity that enriches our understanding of the animal kingdom.
+
+Bear to Butterfly:
+Continuing our journey, we encounter the bear, a symbol of strength and resilience across cultures, whose name traces its roots back to Old English and Proto-Germanic languages. As we move on, we encounter the butterfly, a delicate marvel of nature whose name reflects its graceful flight and vibrant colors. From the majestic grizzly bear to the intricate patterns of the monarch butterfly, each name encapsulates a world of meaning and symbolism.
+
+Camel to Cuttlefish:
+The letter C introduces us to the camel, a desert-dwelling mammal known for its ability to survive in harsh environments, whose name is derived from the Arabic word "jamal." As we delve deeper, we encounter the cuttlefish, a marine mollusk renowned for its intelligence and camouflage abilities, whose name comes from the Old English word "cudele," meaning cuttlefish. In these names, we find echoes of ancient cultures and the enduring connections between humans and animals.
+
+Dolphin to Dragonfly:
+Moving along, we encounter the dolphin, a symbol of intelligence and playfulness in the oceans, whose name is derived from the Greek word "delphis." Continuing our journey, we encounter the dragonfly, a graceful insect with iridescent wings, whose name evokes mythical creatures and ancient legends. In the names of these creatures, we discover the poetry of language and the mysteries of the natural world.
+
+Elephant to Echidna:
+Our journey takes us to the letter E, where we encounter the elephant, a gentle giant revered for its strength and wisdom, whose name traces its roots back to the Greek word "elephas." Moving on, we encounter the echidna, a spiny mammal native to Australia, whose name comes from the Greek word "ekhidna," meaning viper. In these names, we find echoes of ancient civilizations and the rich tapestry of life on Earth.
+
+Falcon to Firefly:
+The letter F introduces us to the falcon, a swift and formidable bird of prey, whose name is derived from the Latin word "falco." As we continue our journey, we encounter the firefly, a luminous insect that illuminates the night with its bioluminescent glow, whose name captures the magic and wonder of the natural world. In the names of these creatures, we glimpse the beauty and diversity of life on Earth.
+
+Giraffe to Gecko:
+Moving on, we encounter the giraffe, a graceful herbivore known for its long neck and distinctive coat, whose name is believed to have originated from the Arabic word "zarafa." Continuing our journey, we encounter the gecko, a small lizard with adhesive toe pads that enable it to climb vertical surfaces, whose name comes from the Malay word "gekoq." In these names, we find traces of ancient civilizations and the interconnectedness of life on Earth.
+
+Hippopotamus to Hummingbird:
+The letter H introduces us to the hippopotamus, a massive mammal that spends much of its time in water, whose name is derived from the Greek words "hippos" (horse) and "potamos" (river). As we continue our journey, we encounter the hummingbird, a tiny bird known for its rapid wingbeats and iridescent plumage, whose name reflects the buzzing sound of its wings. In the names of these creatures, we discover the diversity and complexity of the natural world.
+
+Iguana to Impala:
+Moving along, we encounter the iguana, a large lizard native to Central and South America, whose name is believed to have originated from the Arawakan language. Continuing our journey, we encounter the impala, a slender antelope known for its agility and speed, whose name comes from the Zulu language. In these names, we find echoes of indigenous cultures and the richness of biodiversity.
+
+Jaguar to Jellyfish:
+The letter J introduces us to the jaguar, a powerful predator revered by indigenous peoples across the Americas, whose name is believed to have originated from the Tupian languages. As we continue our journey, we encounter the jellyfish, a gelatinous marine creature that drifts with the ocean currents, whose name captures its ethereal beauty and otherworldly appearance. In the names of these creatures, we glimpse the diversity and wonder of life on Earth.
+
+Kangaroo to Kingfisher:
+Moving on, we encounter the kangaroo, an iconic marsupial native to Australia, whose name is believed to have originated from the Guugu Yimithirr language. Continuing our journey, we encounter the kingfisher, a colorful bird known for its dazzling plumage and expert fishing skills, whose name reflects its diet of fish. In these names, we find connections to indigenous cultures and the unique ecosystems they inhabit.
+
+Lion to Ladybug:
+The letter L introduces us to the lion, a symbol of strength and majesty in cultures around the world, whose name is derived from the Latin word "leo." As we continue our journey, we encounter the ladybug, a tiny beetle known for its bright colors and spotted wings, whose name captures its gentle and benign nature. In the names of these creatures, we discover the beauty and diversity of life on Earth.
+
+Moose to Manta Ray:
+Moving along, we encounter the moose, a massive herbivore known for its distinctive antlers and formidable size, whose name is derived from the Algonquian languages. Continuing our journey, we encounter the manta ray, a graceful marine creature with wings-like fins, whose name comes from the Spanish word "manta," meaning blanket. In these names, we find connections to indigenous cultures and the wonders of the natural world.
+
+Nightingale to Narwhal:
+The letter N introduces us to the nightingale, a renowned songbird celebrated for its melodious calls, whose name is derived from the Old English word "nihtegale." As we continue our journey, we encounter the narwhal, a mysterious marine mammal known for its long, spiral tusk, whose name comes from the Old Norse word "nar," meaning corpse, and "hvalr," meaning whale. In the names of these creatures, we find echoes of ancient legends and the mysteries of the natural world.
+
+Ocelot to Ostrich:
+Moving on, we encounter the ocelot, a small wild cat known for
+
+ its distinctive spotted coat, whose name is believed to have originated from the Nahuatl language. Continuing our journey, we encounter the ostrich, a flightless bird native to Africa, whose name comes from the Greek word "struthio." In these names, we find traces of ancient civilizations and the richness of biodiversity.
+
+Penguin to Platypus:
+The letter P introduces us to the penguin, a charismatic bird known for its waddling gait and tuxedo-like plumage, whose name is believed to have originated from Welsh or Breton languages. As we continue our journey, we encounter the platypus, a unique mammal native to Australia, whose name comes from the Greek words "platys" (flat) and "pous" (foot), reflecting its webbed feet and duck-like bill. In the names of these creatures, we discover the diversity and wonder of life on Earth.
+
+Quokka to Quetzal:
+Moving along, we encounter the quokka, a small marsupial known for its friendly demeanor and smile-like expression, whose name is believed to have originated from the Nyungar language. Continuing our journey, we encounter the quetzal, a resplendent bird revered by the ancient Maya and Aztec civilizations, whose name comes from the Nahuatl word "quetzalli." In these names, we find connections to indigenous cultures and the beauty of the natural world.
+
+Rabbit to Rhinoceros:
+The letter R introduces us to the rabbit, a small mammal known for its reproductive prowess and agile movements, whose name is believed to have originated from the Middle English word "rabet." As we continue our journey, we encounter the rhinoceros, a massive herbivore with a formidable horn, whose name comes from the Greek words "rhino" (nose) and "keras" (horn). In the names of these creatures, we discover the diversity and complexity of the natural world.
+
+Sloth to Seahorse:
+Moving on, we encounter the sloth, a slow-moving mammal known for its arboreal lifestyle and laid-back demeanor, whose name is derived from the Middle English word "slouthe." Continuing our journey, we encounter the seahorse, a unique fish with a horse-like head and curled tail, whose name reflects its equine appearance. In these names, we find connections to ancient languages and the wonders of the natural world.
+
+Tiger to Toucan:
+The letter T introduces us to the tiger, a powerful predator revered for its strength and beauty, whose name is believed to have originated from the Greek word "tigris." As we continue our journey, we encounter the toucan, a colorful bird known for its oversized beak and vibrant plumage, whose name is derived from the Tupian languages. In the names of these creatures, we discover the diversity and majesty of life on Earth.
+
+Uakari to Urutu:
+Moving along, we encounter the uakari, a small monkey with a bald face and vibrant red skin, whose name is believed to have originated from indigenous languages of the Amazon region. Continuing our journey, we encounter the urutu, a venomous snake native to South America, whose name comes from the Tupian languages. In these names, we find connections to indigenous cultures and the richness of biodiversity.
+
+Vulture to Vampire Bat:
+The letter V introduces us to the vulture, a scavenging bird known for its bald head and keen sense of smell, whose name is derived from the Latin word "vultur." As we continue our journey, we encounter the vampire bat, a nocturnal mammal known for its blood-feeding habits, whose name evokes images of mythical creatures and ancient folklore. In the names of these creatures, we discover the diversity and complexity of the natural world.
+
+Whale to Woodpecker:
+Moving on, we encounter the whale, a majestic marine mammal known for its immense size and graceful movements, whose name traces its roots back to Old English and Proto-Germanic languages. Continuing our journey, we encounter the woodpecker, a bird known for its drumming and tree-climbing abilities, whose name reflects its habit of pecking wood. In these names, we find connections to ancient languages and the wonders of the natural world.
+
+Xenops to Xerus:
+The letter X presents a challenge in our journey, but we press on and encounter the xenops, a small bird found in Central and South America, whose name is derived from the Greek words "xenos" (strange) and "ops" (face). Continuing our journey, we encounter the xerus, a species of African ground squirrel, whose name comes from the Greek word "xeros," meaning dry, reflecting its arid habitat. In these names, we find traces of ancient languages and the diversity of life on Earth.
+
+Yak to Yellowhammer:
+Moving along, we encounter the yak, a shaggy-haired mammal native to the Himalayas, whose name is believed to have originated from Tibetan languages. Continuing our journey, we encounter the yellowhammer, a songbird known for its distinctive yellow plumage and melodious song, whose name captures its vibrant colors and musical nature. In these names, we find connections to indigenous cultures and the beauty of the natural world.
+
+Zebra to Zebrafish:
+Finally, our journey concludes with the zebra, a striking mammal known for its black-and-white stripes, whose name is derived from the Old Portuguese word "zebra," which means wild ass. As we bid farewell, we encounter the zebrafish, a small freshwater fish known for its distinctive stripes and importance in scientific research, whose name reflects its resemblance to the zebra. In these names, we find echoes of distant lands and the interconnectedness of life on Earth.
+
+Conclusion:
+In this exploration of animal names, we have traversed continents, delved into ancient languages, and marveled at the diversity of life on Earth. From the majestic lion to the tiny ant, from the depths of the oceans to the heights of the mountains, every creature has a name, a story, and a place in the rich tapestry of biodiversity. As stewards of the planet, let us cherish and protect the wondrous array of life that surrounds us, for in its diversity lies the beauty and resilience of our shared home.
+The general grasp of how and why things work is aided by science. It provides an explanation for why intricate systems, including the human body and contemporary transportation, operate on a daily basis. With this knowledge, children and students can explore new hobbies, pick up new skills, and make well-informed decisions. It also offers practical, observable evidence for numerous facts we learn from books or watch on television. This improves comprehension and aids in children’s retention of the knowledge.
+
+Discovering the Wonders of Science in the Classroom
+
+Since science is an interdisciplinary field, boundaries do not exist. Science was acknowledged as a subject in schools after years of vigorous and determined efforts. Science has transformed human existence and shown itself to be essential to human survival.
+
+Since science is now recognized as superior in all fields, it is imperative that children receive an education on science, including what it is and where it is found. Our lives have likewise accelerated in pace. The individual has been given a completely new perspective on social and political issues. Because of this, studying science is now required in this day and age, and a guy who does not understand modern science is like a dull person who does not understand the modern world. The following justifies the significance of science education in schools:
+
+Science is the only discipline that teaches thinking and inspection. It forces the pupils to make an unbiased assessment.
+Learning science is quite beneficial to our supervision in life. Our environment is one of scientific innovations. Science education is therefore essential.
+Science is taught to provide instruction and understanding of scientific methodologies.
+There is literature and cultural values unique to science. Science has risen to the top in humanistic studies because of the scientific discoveries made by people like Newton, Darwin, Armstrong, and others. These discoveries are treasures for humanity.
+Science is useful in practical ways. It teaches kids how to make the most of their free time and is exemplified by scientific hobbies.
+Wonders of Science Essay 600 words
+From a paper airplane to a space shuttle, from a regular pen to a printing machine, science is present everywhere. It is essential to our day-to-day existence. Thanks to scientific advancements, we now lead comfortable and easier lives. All facets of existence have been altered by science. Once unattainable goals are now achievable.
+
+Science’s Gifts
+
+The gift of science is thousands of items we utilize on a daily basis. Take a peek at a few of these:
+
+Power – Thus, the development of electricity brought about a profound transformation in human civilization. Power is needed to operate heavy equipment, railroads, factories, and other heavy vehicles. Electric fans, heaters, air conditioners, and lights have all improved our quality of life. Essentially, electricity is the foundation of all scientific advances.
+
+Surgery and Medicine – Amazing medications that provide us with instant relief have been made possible by science. Many severe and fatal diseases have been conquered with the aid of science. Numerous vaccines and medications have been developed to protect individuals against various illnesses. Nowadays, practically any portion of the human body can be surgically replaced. This can provide us with legs to walk, ears to hear, and eyes to see. Researchers are developing fresh and enhanced surgical techniques. Incredible advancements have been made in medical science. It is now feasible to perform organ transplants and blood transfusions. The development of tools like the X-ray, ultrasound, ECG, MRI, Penicillin, and others has greatly facilitated problem diagnosis.
+
+Transportation and Travel- Thanks to science, we can now travel quickly and comfortably. Within a few hours, we can go to any location on Earth. In addition to automobiles, we can travel via buses, trains, ships, and aircraft. They not only carry us, but they also swiftly and safely deliver resources and things to distant locations.
+
+Communication –Science has significantly altered the ways in which people communicate. This is not the time to be waiting impatiently for a response to our message. Even though our relatives live too far away from us, we can still communicate with them at this time. Not only can we see them on our phones, but we can also communicate with them.
+
+Farming –Science has shown to be a true ally of farmers in the field of agriculture. Numerous advancements and discoveries aid farmers in producing high-quality crops. A farmer can use high-quality seeds, tractors, harvesting equipment, manures, and other gifts from science. Different kinds of machinery are aiding in the expansion of the dairy industry. Their lifestyle has been enhanced by science.
+
+Amusement- Radio was the first medium for amusement that science had to provide. On it, people once listened to news and music. However, science has recently astounded us with fresh advancements in the entertainment industry. We can now watch TV on our smartphones. Everywhere we go, we can view live broadcasts. able to watch videos on computers, TVs, and mobile devices. Without these, we could not conceive our life.
+My passion for computers have led me to expand my knowledge in computer science because I find it fascinating. From a young age, I was absolutely attracted by computer games which later develop into an interest for programming. I selected computing as my career because of its opening, modernity and the challenges it beholds. I feel the need for a higher education as it gives me exposure to the most recent technologies and to prepare myself in a competitive environment.
+
+Out of office hours, in my spare time, I enjoy keeping fit by working out in the gym and running regularly.
+
+In this essay, I will discuss the issues relating to the teaching of computer science that were
+raised in the article "A Debate on Teaching Computer Science" [Dijkstra et al 1989]. The
+structure of the paper is as follows: first I will briefly summarise Dijkstra's contribution and
+his reply. I will do this to illustrate what I consider to be his main points. I will then discuss
+the relevance of these points to the teaching of computer science. In the section after that I
+will summarise the points raised by the other contributors. As many points were repeated, I
+will give an overview of all the issues raised and discuss them. In the final section I will
+address some issues that were not raised and bring together my conclusions.
+Essays on Computer
+Science Education
+Vashti Galpin
+vashti@cs.wits.ac.za
+http://www.cs.wits.ac.za/~vashti
+Technical Report: 1992-03
+April 1992
+Department of Computer Science
+University of the Witwatersrand
+Private Bag 3
+Wits 2050
+South Africa
+
+The essays that appear in this report were written as course requirements for the Computer
+Science Education course that was presented as part of the MSc in Computer Science by
+Coursework and Research Report in 1991.
+A Debate on the Teaching of Introductory Computer Science 2
+An Extension to the ACM Definition of Computer Science 7
+A Comparison of Teaching Methods 14
+Hypertext and Hypermedia 1
+A DEBATE ON THE TEACHING OF INTRODUCTORY
+COMPUTER SCIENCE
+In this essay, I will discuss the issues relating to the teaching of computer science that were
+raised in the article "A Debate on Teaching Computer Science" [Dijkstra et al 1989]. The
+structure of the paper is as follows: first I will briefly summarise Dijkstra's contribution and
+his reply. I will do this to illustrate what I consider to be his main points. I will then discuss
+the relevance of these points to the teaching of computer science. In the section after that I
+will summarise the points raised by the other contributors. As many points were repeated, I
+will give an overview of all the issues raised and discuss them. In the final section I will
+address some issues that were not raised and bring together my conclusions.
+Dijkstra originally presented the talk at the ACM Computer Science Education Conference in
+February 1989 and it was decided to print the text of the talk in CACM with other computer
+scientists entering into the debate. The editor of the Communications of the ACM, Peter
+Denning introduces the debate by describing Dijkstra as challenging "some of the basic
+assumptions on which our curricula are based" [Dijkstra et al 1989].
+Dijkstra's basic position is that computer science consists of two radical novelties and that
+this has implications for the teaching of computer science especially introductory
+programming courses for first year students (I will use the terms "first years" and "first year
+students" to replace the term "freshmen"). A radical novelty is such a sharp discontinuity in
+thought that existing approaches cannot be used to reason about it and it is necessary to
+approach a radical novelty with a blank mind. The two radical novelties in computer science
+are the depth of conceptual hierarchies that occur in computer science and the fact that
+computers are the first large scale digital devices. Radical novelties require much work to
+come to grips with, and people are not prepared to do this, so they pretend the radical
+novelties do not exist. Examples of this in computer science are software engineering and
+artificial intelligence.
+Dijkstra investigates the scientific and educational consequences, by examining what
+computer science is. He reduces this to the manipulation of symbols by computers. In order
+for meaningful manipulations to be made, a program must be written. He then defines a
+program as an abstract symbol manipulator, which can be turned into a concrete symbol
+manipulator by adding a computer to it. Programs are elaborate formulae that must be
+derived by mathematics. Dijkstra hopes that symbolic calculation will become an alternative
+to human reasoning. Computing will go beyond mathematics and applied logic because it
+deals with the "effective use of formal methods" [Dijkstra et al 1989]. He points out that this
+view of computing science is not welcomed by many people, for various reasons.
+Dijkstra makes a number of recommendations for education. Bugs should be called errors
+since a program with an error is wrong, and lecturers should avoid anthropomorphic
+terminology as it causes students to compare the analog human with discrete computer and
+this leads to operational reasoning which is tremendous waste of time. When attempting to
+prove something about a set, it is better to work from the definition than with each individual
+item in the set. The approach can be applied to programming as well where programs can be
+reasoned about without dealing with specific behaviours of the program. The programmer's
+task is to prove that the program meets the functional specification. Dijkstra suggests that an
+introductory programming course for first years should consist of a boolean algebra
+component, and a program proving component. The language that will be used will be a
+simple imperative language with no implementation so that students cannot test their
+programs. Dijkstra argues that these proposals are too radical for many. The responses that he
+expects, are that he is out of touch with reality, that the material is too difficult for first years,
+and that it would differ from what first years expect. Dijkstra states that students would
+quickly learn that they can master a new tool (that of manipulating uninterpreted formulae)
+that, although simple, gives them a power they never expected. Dijkstra also states that
+teaching radical novelties is a way of guarding against dictatorships.
+In his reply to the panel's responses, Dijkstra points out that this is only a recommendation
+for an introductory programming course for first years. He notes that functional
+specifications fulfil the "pleasantness problem" - whether the product specified is the product
+wanted -, and the proof fulfils the "correctness problem" - whether the product implemented
+is the product specified and that these two problems require different techniques. He admits
+that the choice of functional specification and notation is not clear. He addresses concerns
+about the possibility of a more formalised mathematics and gives a number of reasons for his
+belief that it will be developed. Well chosen formalisms can give short proofs, logic has not
+been given a chance to provide an alternative to human reasoning, heuristic guidance can be
+obtained by syntactic analysis of theorems and informal mathematics is hard to teach because
+of things like "intuition", whereas symbol manipulation will be easy to teach.
+In this section, I will discuss some of the issues raised by Dijkstra. He has described the two
+radical novelties of computer science and he uses this as a justification for approaching the
+discipline with a blank mind, because previous knowledge cannot help in the understanding
+of computer science. He later advances an approach to computer science that involves taking
+a mathematical approach, by using existing techniques of predicate calculus to prove that
+programs meet their specifications. This would seem to contradict his argument that one
+cannot use the familiar to reason about a radical novelty.
+Generally it is accepted that to restrict thinking to one particular framework is undesirable,
+and leads to the formation of dictatorships. Dijkstra's argument is that students taking the
+introductory course should only think in the specified way. In my opinion, different
+approaches to a topic can only help comprehension of that topic. A point raised in a number
+of letters that appeared in later issues of Communications of the ACM is that different
+students approaching learning new concepts in different ways and that teaching should cater
+for this [Bernstein 1990; Herbison-Evans 1991]. Dijkstra also seems to have a general
+suspicion of tools, even those that can help students (or professionals) better understand a
+topic. A more pragmatic issue is that some students doing an introductory course at
+university will already have been exposed to programming and therefore operational
+thinking. How are these students to keep their thinking "pure" when doing Dijkstra's course?
+Dijkstra's approach to teaching seems to be one of training not education. He wants to teach
+students doing an introductory course, a rigid set of rules and that set of rules only. This does
+not leave room for intuition, judgement and discussion, which all relate to education. He also
+emphasises the need for a specific skill without grounding it in any larger context.
+One of the participants, William Scherlis, raised the question of why use an imperative
+language if operational thinking is to be avoided. Luker raises the point made by Turner and
+Backus that variables and assignment statements in imperative languages make verification
+difficult [Luker 1989]. A rigorous formalism could be introduced using a functional
+programming language (or perhaps using a formal language that does not relate to a
+programming language) and an understanding of the use of formalisms could be related to
+various issues of computer science and mathematics. This would give a broader area of
+application for the course.
+Dijkstra states that learning to manipulate uninterpreted formulae would be satisfying for a
+first year student as it would "give him a power that far surpasses his wildest dreams". I
+believe that a course of this kind would consist of boring and repetitive work that would
+become mechanical, as it is training and not education. It could give a student a sense of
+power, but only in a limited domain, and as I understand the course that Dijkstra has
+outlined, this knowledge could not be applied to other domains within computer science.
+Dijkstra states that operational reasoning is a waste of time, however proving programs can
+be very time consuming (except with very powerful techniques that might be developed in
+the future). Currently there is no formalism that is powerful enough to allow for short proofs
+and generally proving that a program is correct is a very tedious job. [De Millo et al 1979].
+I can agree with the basic theme of Dijkstra's recommendations. I do perceive that there is a
+lack of rigour in introductory courses in computer science. However I would not approach
+changing the curriculum as Dijkstra does and I do not think his suggestions have really
+challenged any basic assumptions about curricula. I feel that he is pandering to the view of
+"computer science is programming" by using program verification as a tool for developing
+rigour. I find it problematic that the more formalised mathematics required for proof have not
+yet been developed, as the current techniques seem insufficient. In my opinion, it would be
+more beneficial to introduce students to the concept of formal proof of programs and then
+discuss the current limitations of the approach. I would prefer an computer science discrete
+mathematics course to be presented during the first year curriculum, such as the suggestions
+made by Marion [Marion 1989]. In this course, rigour can be introduced but the material
+covered is related to computer science as a whole and not only to programming.
+In this section, I will summarise the responses to Dijkstra. A number of panelists agreed with
+Dijkstra's general conclusions although most people disagreed with his argument to justify
+the conclusions. A number of panelists also responded to his attack on software engineering.
+The responses that follow are those that relate to the teaching of computer science. In
+engineering education both proof and testing are necessary techniques and are not taught as
+alternatives. Students require exposure to the whole process of software engineering. Dijkstra
+does not tackle the issue of formalisation (capturing a real world problem in a formal
+specification) and the fact that formalisation is difficult. Mathematical proofs are not found
+by symbol manipulation but by trial and error using intuition and any other tools that will
+help. Dijkstra is trying to restrict modes of thinking but intuition and operational thinking can
+help solve problems. There are a number of different approaches to programming such as
+imperative, functional and logic. Dijkstra's language is imperative and cannot be scaled up.
+Students need to be exposed to set theory and predicate calculus which can be used in both
+formal and informal proof, but there is more to computer science than symbol manipulation.
+Most panelists lost track of the fact that Dijkstra was careful enough to discuss his thoughts
+in terms of a first year course only and their discussion related mainly to issues of definition
+of computer science which are beyond the scope of this essay. However this did bring out
+very clearly that there is a lot of debate about what computer science is and what should be
+taught . This debate has been continued recently by the ACM Task Force on the Core of
+Computer Science [Denning et al 1989] and ACM/IEEE-CS Joint Curriculum Task Force
+[Tucker and Barnes 1991].
+My general feeling about this debate is that it did not address general issues of teaching
+computer science. In fact Dijkstra limits himself to discussing an introductory programming
+course and does not discuss the impact of this course on the rest of the curricula. The debate
+relates predominantly to the teaching of programming, a pervasive part of computer science
+(see for example the section in the Task Force on The Role Of Programming [Denning et al
+1989]), although I believe that the main issue was about rigour and formalism in introductory
+courses. In the Core of Computer Science Report and the Curricula 1991 Report, there is a
+heavier emphasis on theory in the curriculum than previously, however the issue of where it
+should be placed in the curriculum was not discussed. I think that it has generally been
+agreed that rigour is necessary for a computer science undergraduate curriculum, but I think
+that the question of how the rigour is to be taught is still an open area and it is important to be
+aware that students have different learning styles. In my opinion, an essential point for any
+introductory course teaching rigour is that it must relate the material taught to the rest of
+computer science so that the students can appreciate its place in the curriculum and its
+relevance to the field.
+References
+BERNSTEIN, D.R., 1990, Letter to ACM Forum. Comm ACM, 33(3), Mar 1990, 264-265.
+DENNING, P.J., COMER, D.E., GRIES, D., MULDER, M.C., TUCKER, A., TURNER, A.J., YOUNG,
+P.R., 1989, Computing as a Discipline. Comm ACM, 32(1), Jan 1990, 9-23.
+DE M ILLO, R.A., LIPTON, R.J. AND PERLIS, A.J., 1979, Social Processes and Proofs of
+Theorems and Programs. Comm ACM, 22(5), May 1979, 271-280.
+DIJKSTRA, E.W., PARNAS, D.L., SCHERLIS, W.L., VAN EMDEN, M.H., COHEN, J., HAMMING,
+R.W., KARP, R.M., AND WINOGRAD, T., 1989, A Debate on Teaching Computer
+Science. Comm. ACM , 32(12), Dec 1989, 1397-1414.
+HERBISON-EVANS, D., 1991, Letter to ACM Forum. Comm ACM, 34(4), Apr 1991, 24-25.
+LUKER, P.A., 1989, Never Mind the Language, What About the Paradigm? SIGCSE Bulletin,
+21(1), Feb 1989, 252-256.
+MARION, W., 1989, Discrete Mathematics for Computer Science Majors - Where Are We?
+How Do We Proceed? SIGCSE Bulletin, 21(1), Feb 1989, 273-277.
+TUCKER, A. AND BARNES, B., 1991, Computing Curricula 1991. Comm ACM, 34(6), Jun
+1991, 69-84.
+AN EXTENSION TO THE ACM DEFINITION OF
+COMPUTER SCIENCE
+In this essay, I will investigate the possibility of adding a third dimension to the twodimensional grid used to define computer science by the ACM Task Force on the Core of
+Computer Science [Denning et al 1989]. The third dimension would show the interaction of
+concepts such as social responsibility, ethics and parallelism with the subareas. The outline
+of this essay is as follows; I will first briefly describe the classification given by the Task
+Force and the decisions used to achieve this classification. In the second section I describe
+the suggestion that was presented at the discussion of the Computer Science Education class.
+I will next describe the approach I took to formalise the concept of the third dimension and to
+identify which subareas belong on this dimension. I then argue for the fact that social issues
+in computer science should be placed on the dimension of subareas and not on the third
+dimension. Finally I discuss some other omissions and then present the final classification.
+One of the Task Force's three aims was to present “a description of computer science that
+emphasises fundamental questions and significant accomplishments” [Denning et al 1989].
+The approach of the Task Force was to give a short definition and then to divide the field into
+subsections. The Task Force developed a two-dimensional grid to divide computer science
+into subareas. The first dimension has three areas or processes: Theory, Abstraction and
+Design. Each of these describe how practitioners of computer science achieve their goals,
+and these three areas also relate the discipline to the areas of mathematics, science and
+engineering respectively. For the second axis, nine subareas were identified. These are as
+follows:
+algorithms and data structures
+programming languages
+architecture
+numerical and symbolic computation
+operating systems
+software methodology and engineering
+database and information retrieval systems
+artificial intelligence and robotics
+human-computer communication
+The criteria that were used to distinguish subareas were “underlying unity of subject matter,
+substantial theoretical component, significant abstractions and important design and
+implementation issues” [Denning et al 1989]. The Task Force also thought that it was
+preferable that each subarea be linked with a research community or group of research
+communities that produces literature in that area. Figure 1 illustrates this two-dimensional
+matrix. The Task Force Report notes that certain subareas for which there exist literature and
+research communities, do not appear because “they are basic concerns throughout the
+discipline” [Denning et al 1989]. These areas contain theory, abstraction and design and
+occur in all subareas. The examples given are parallelism, security, reliability and
+performance evaluation.
+Theory Abstraction Design
+1 algorithms and data structures
+2 programming languages
+3 architecture
+4 numerical and symbolic computation
+5 operating systems
+6 software methodology and engineering
+7 database and infromation retrieval systems
+8 artificial intelligence and robotics
+9 human-computer communication
+Figure 1. Definition Matrix of Computing as a Discipline [Denning et al 1989].
+The suggestion that was raised in the Computer Science Education class was that a third
+dimension should be introduced to the matrix to allow for these ‘orthogonal’ subareas to be
+explicitly captured, so that the disparate items that are spread across the second dimension
+are actually listed in such a way that they are not forgotten or ignored. This would give
+greater cohesion to the discipline. This would be similar to the way that the first dimension of
+theory, abstraction and design unifies the field by recognising all its facets. The third
+dimension would enable those subareas that do thread through the nine given subareas to be
+recognised as distinct in their own right. Figure 2 illustrates this idea (In the figures that
+appear in the rest of the document the nine subareas will be represented by the digits 1 to 9).
+The approach I took was to investigate previous classifications of the field of computer
+science. The ACM Task Force referenced the Computer Science and Engineering Research
+Study (COSERS) [Arden 1980] and therefore I did not use this report. Another classification
+system is the Computing Reviews (CR) Classification System [ACM Guide to Computing
+1990] which was developed from a Taxonomy of Computer Science and Engineering [AFIPS
+Taxonomy Committee 1980]. I decided to compare the classification done by the Task Force
+with the CR Classification to see if there are any other subareas with should be placed on the
+third axis, or if any fields have been totally omitted from the classification.
+Design
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Performance
+evaluation
+Design
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Design Reliability
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Design Security
+Theory Abstraction Design
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Parallelism
+Figure 2. Suggested alterations to the definition matrix.
+The major difference between the CR classification and the Task Force classification is the
+section on social and related issues. In the CR classification this is section K, Computing
+Milieux and it deals with the computer industry, history of computing, computers and
+education, legal aspects of computing, management of computing and information systems,
+the computing profession and personal computing. Dunlop and Kling are critical of the Task
+Force Report because it omits social analysis from its definition of computing [Dunlop and
+Kling 1991]. The ACM/IEEE-CS Joint Curriculum Task Force which investigated
+undergraduate curriculum and worked from the Report of the ACM Task Force on the Core
+of Computer Science, found it necessary add an undergraduate course to deal with social
+context of computing [Tucker and Barnes 1991, Denning et al 1988].
+This area of social context could be added on any one of the three different axes. I will
+investigate the approach that was taken in Computing Curricula 1991 which is interesting
+because of the introduction of a third and possibly a fourth dimension. The underlying
+principles that are used for the curricula are as follows:
+“From the subject matter of the nine areas of the discipline, this article
+identifies a body of fundamental material called the common
+requirements, to be included in every program. The curriculum of each
+program must also contain substantial emphasis on each of the three
+processes, which are called theory, abstraction and design. In addition,
+ 	
+this article identifies a body of subject matter representing the social and
+professional context of the discipline, also considered to be essential to
+every program. Finally a set of concepts that recur throughout the
+discipline, and that represent important notions and principles that remain
+constant as the subject matter of the discipline changes, are an important
+component of every component of every program.” [Tucker and Barnes
+1991]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Binding
+Complexity of large programs
+Conceptual and formal models
+Consistency and completeness
+Efficiency
+Evolution
+ Levels of abstraction
+ Ordering in space
+ Ordering in time
+ Reuse
+ Security
+ Trade-offs and consequences
+Theory
+Abstraction
+Design
+Figure 3. An interpretation of the underlying principles for curriculum design
+(excluding social context of computing).
+The common requirements relate to the subareas, and the processes are as previously
+explained. The criteria for a recurring concept are that it occurs throughout the discipline, has
+a variety of instantiations and it is not technologically dependent. Most of the recurring
+concepts also occur in each subarea, and have instantiations at the theory, abstraction and
+design levels. I have interpreted these recurring concepts as a different third dimension as
+shown in Figure 3. Note that this third dimension consists of concepts whereas the third
+dimension suggested earlier in the paper consists of subareas. I will remain with the original
+idea of a third axis of subareas as opposed to one of concepts
+
+The question still remains of where to put social context. Tucker and Barnes do not classify it
+as a recurring concept. However they both juxtapose it with theory abstraction and design,
+and give it an extra common requirement along with other subareas that were defined. So one
+option would be to add it as a new process on the first dimension and a second option would
+be to add it as a new subarea on the second axis. A third option is to add it to the third
+dimension of Figure 2. The fourth option is to add another dimension to the diagram but I
+believe that this would make the whole definition too complex. My personal feeling is that it
+should be added as a subarea as I feel that it fulfils the criteria for this and also because if it
+were added to the third dimension of subareas it becomes difficult to identify the issues that
+relate to a particular subarea on the second dimension. It is therefore necessary to define the
+theory, abstraction and design issues that relate to the social context of computing. Many of
+the ideas presented here are from Dunlop and Kling [Dunlop and Kling 1991]. The social
+context would be subarea 10 in the Task Force’s classification scheme.
+10. SOCIAL CONTEXT OF COMPUTING
+This area deals with placing the discipline in a social context. Fundamental
+questions include: What is the social impact of computing? What code of
+behaviour should computing professionals adhere to? How can computers
+strengthen democracy? How should computer scientists be educated?
+10.1 Theory
+Major elements of theory in the area of the social context of computing are:
+1. Philosophical questions relating to computing.
+2. Ethics.
+3. Health issues.
+4. Democratisation, employment, class, gender and race issues.
+5. Educational theory.
+10.2 Abstraction
+Major elements of abstraction in the area of the social context of computing
+are:
+1. Educational issues.
+2. Codes of conduct.
+3. Critical computer systems.
+4. Social impact of technolo
+10.3 Design
+Major elements of design in the area of the social context of computing are:
+1. Curriculum design.
+2. Reduction of health hazards when using computer equipment.
+3. Design of critical computer systems.
+4. Evaluation of social impact of technology.
+There are two other fields that the CR classification contains - simulation and modelling, and
+text processing - and also a section called Computer Applications that are all omitted from
+the Task Force Report. The application of simulation to computers could be added to the
+third dimension which consists of subareas and in some sense modelling is captured in the
+Abstraction column. However, the actual field of using computers for simulation as opposed
+to using simulation to understand computers is not orthogonal to the other subareas on the
+second axis; in fact it is distinct. However it could be treated as an application of computers.
+Text processing could be placed in the Human-Computer Communication subarea which
+seems to be a catch-all for the topics that were omitted. Section J of the CR Classification is
+Computer Applications and it is too wide to try to bring into the existing framework. It could
+however become a list separate from the definition matrix that would allow for description of
+these applications.
+To return to the three-dimensional model that was proposed, I have not found any more
+subareas that could be added to the four suggested by the Task Force Report, namely
+Parallelism, Security, Reliability and Performance Issues. The suggestion was made that
+social issues and ethics be added to this dimension, however I feel that I have made a strong
+case for adding it as a subarea on the second dimension. The next stage of this process is to
+elaborate on the details of each block in the three dimensional matrix, as was done for the
+two-dimensional matrix. This is beyond the scope of this essay, but I would like to note that
+it is possible at this level for certain blocks to be empty, i.e. for there to be no material that
+relates all three dimensions together given a specific process and two subareas. Another issue
+is that the three dimensional matrix does not replace the matrix given in the Task Force
+Report. It gives more detail about the discipline and allows for subareas that do not appear on
+the second dimension to be explicitly represented. The classification scheme given by the
+Task Force Report remains as is except for the addition of the Social Context of Computing.
+In this essay, I have attempted to formalise the idea of a third dimension for the classification
+of the discipline of computer science. The ‘orthogonal subareas’ have been added as a third
+dimension and social context of computing has been added as a subarea. Although there are
+many ways to restructure the classification of the discipline, the approach taken in this essa
+
+has given more detail and depth to the definition of computer science which will allow for a
+better understanding of the discipline.
+References
+ACM GUIDE TO COMPUTING LITERATURE 1990, ACM Press.
+AFIPS TAXONOMY COMMITTEE, 1980, Taxonomy of Computer Science and Engineering.
+American Federation of Information Processing Societies, Arlington, Virginia.
+ARDEN, B., (ED), 1980, What Can be Automated? Report of the NSF Computer Science and
+engineering Research Study (COSERS). MIT Press, Cambridge, Mass.
+DENNING, P.J., COMER, D.E., GRIES, D., MULDER, M.C., TUCKER, A., TURNER, A.J., YOUNG,
+P.R., 1988, Report of the ACM Task Force on the Core of Computer Science. ACM
+Press.
+DUNLOP, C. AND KLING, R., 1991, Computerization and Controversy. Academic Press.
+TUCKER, A. AND BARNES, B., 1991, Computing Curricula 1991. Comm ACM, 34(6), Jun
+1991, 69-84
+
+A COMPARISON OF TEACHING METHODS
+In this essay, I will look at both the lecture method and participatory methods and suggest as
+an alternative a third method that incorporates the advantages of the two styles when teaching
+large groups. This third method does have disadvantages - as will any teaching method - and
+these will be described. I will first outline the underlying argument and then give the details.
+The basic argument rests on the fact that lecturing is as good as any other method for
+imparting information to students, however it does not promote thinking. Active or
+participatory methods help to engender thought skills, however they tend to reduce the
+content that can be covered in a fixed time period and they require small groups for
+effectiveness. An alternative method for large groups, which allows the use of participatory
+methods and reduces the amount of lecturing, is a method whereby students preread the
+material required for the course. This allows lecture times to be used for presenting difficult
+concepts (if necessary) and the remaining time can be used for participatory methods. This
+method thereby ameliorates the disadvantages of the two opposing methods given above and
+also gives abilities to students that they should have once they graduate. The main
+disadvantages associated with this method are that courses need to be prepared in advance,
+well-trained tutors are required for small group work and students must be mature enough to
+cope with this type of self-teaching approach.
+Bligh [Bligh 1972] looks at the experiments done pertaining to lectures and draws two
+conclusions, namely that lectures are as effective as other methods for transmitting (factual)
+information, but are not as effective as other methods in promoting thought. McLeish notes
+that the lecture system (using only lectures to present materials) gives “effective training for
+passing exams” and presents a number of experiments that question the efficacy of the
+lecture system [McLeish 1968]. Lectures can stifle self-expression and it becomes difficult
+for students to keep concentrating. Note-taking can be a good skill to develop, however it is a
+complex skill and it is susceptible to errors and can inhibit the absorption of information
+[Yorke 1981]. One of the main advantages of lecturing is that it is an efficient method of
+communicating informations to students, i.e. one teacher can teach a large number of
+students [McLeish 1968].
+Jones [Jones 1987] notes that “participatory teaching methods may help by developing
+students with greater depth and breadth of thought”. The methods that Jones advocates are
+brainstorming, directed dialogues, small group discussions, role playing/drama, games, panel
+discussions, debates and Socratic dialogues. These methods are discussed in various places in
+the literature about the teaching process in higher education [Newble and Cannon 1989;
+Yorke 1981]. Jones raises a number of limitations of these methods, namely that the lecture
+is required to do more preparation, less content can be covered with the class, class size and
+arrangement becomes important and strategies must be developed to ensure all students
+participate. He suggests that in a large class, only the top students should take part and the
+mediocre students will benefit from listening. I find this unacceptable firstly as I believe all
+students should leave university with these skills of presentation and argument, or at least
+have the opportunity to acquire them. Secondly, it is also difficult to determine who the top
+students will be in advance.
+Newble and Cannon [Newble and Cannon 1989] argue that small group activities can take
+place in a lecture theatre of any size, if the students are to work in relatively small groups.
+However, I believe that this would make it difficult for a lecturer to facilitate discussion
+within groups, as the lecturer would not be able to get physically close to a group in the
+middle of a tiered lecture theatre with fixed seating.
+In the Computer Science Education discussion, the two experienced lecturers in the group
+pointed out that they liked participatory methods, but that to them it seemed difficult to use
+these methods with classes of 80-120 students. I would like to suggest a method of presenting
+Computer Science courses that allows the use of participatory methods for large groups.
+There are courses that are based on similar concepts presented in the literature [Hills 1976;
+Yorke 1981; Keller and Sherman 1974].
+The crux of the approach is to leave the bulk of the content work to the students, i.e. it would
+be up to the students to have prepared the necessary work beforehand, therefore cutting down
+the number of lectures that are required. This in turn allows more time for participatory work,
+generally in small groups. It should be noted however, that there is extra time required by the
+students for preparation of work as compared with the lecture method. The lectures can be
+reserved for explaining difficult material that occurs in the curriculum when necessary. This
+material could be identified in advance by the lecturer, or by the tutors and students as the
+course proceeds.
+There would be a number of weekly slots and at the beginning of each week, the types of
+presentations that would be occurring could be announced. Students who have covered the
+work that is being dealt with in lectures would not need to attend, however all students would
+be urged to attend tutorials and labs. Students that have not prepared the necessary work in
+advance would be unable to contribute, and a mechanism is required to ensure that students
+do not fall behind. For this, I suggest well-trained counsellors to help students allocate their
+time correctly and also a self testing procedure that allows students to evaluate their progress
+This approach has a number of implications, those that relate to the establishment and
+running of the course and those that relate to students. The course needs to be established in
+advance. It is not possible for a lecturer to run the course on a week-to-week basis, preparing
+the material as needed. As much material is required, it would be advantageous for the course
+to be set up to be used for a number of years. Yorke gives some guidelines for developing
+these materials [Yorke 1981]. This however requires some kind of curriculum stability,
+which seems to currently be lacking in the field of computer science, but the ACM
+Computing Curricula 1991 [Tucker and Barnes 1991] will help to give a basis from which to
+work. In computer science departments that are currently re-evaluating their curricula, it
+could be possible to design a number of courses in advance and to prepare the material for
+them. If an evaluation procedure for courses is instituted, it would become easier to reevaluate and modify the courses when it becomes necessary.
+As the aim of this method is to introduce more participatory work, which is generally small
+group work, it would be necessary for tutors to be employed. These tutors should be well
+trained, dedicated and committed to their jobs. It is necessary for the member of staff taking
+the course to let the tutors know what exactly is required of them and what teaching
+techniques could or should be used. A weekly meeting session between the lecturer
+presenting the course and the tutors would be used for the lecturer to describe the goals to be
+achieved in the week’s teaching and also for the tutors to give feedback to the lecturer. This
+two-way communication is essential for the lecturer to stay in touch with what is happening
+with the students. The structure for this is suggested in Reges et al [Reges 1988]. The lecturer
+should be available for consultation and to observe or to take tutorials. The course should be
+run as a joint effort by the tutors and the lecturer, and it should not be the case that the tutors
+take on all of the teaching load.
+The students need to be motivated to achieve the goals set for them. It would be likely that
+first year students would find this more difficult, especially if they have just left a school
+environment. The course outline should include a clear list of how far a student should
+should have progressed by a particular date, and how much time the department expects the
+student to spend on a particular section.
+Students that are having problems reaching these deadlines could have problems for two
+main reasons. The first reason is that they are missing some crucial background and these
+could be remedied by extra tutorials or lectures. The second reason could be that they do not
+have the ability to organise their time or to use it effectively. This could be solved by having
+an accessible counsellor that can help the student develop these skills
+It could be argued that students are not mature enough to handle such an environment. This
+can be countered with a statement from the ACM Task Force on the Core of Computer
+Science Report that states “the curriculum should be designed to develop an appreciation for
+learning that graduates carry with them through out their careers” [Denning et al 1988] and I
+believe that if students are not encouraged to deal with self-directed study then they are not
+working towards achieving this goal.
+When doing the reading for this essay, I became aware of a large body of research
+investigating teaching methods used in higher education. It is beyond the scope of this essay
+to evaluate my suggestion fully with respect to the literature and I have only touched upon
+some of the issues.
+I have presented a suggestion to accommodate the use of participatory methods when dealing
+with large groups of students. It requires that each student learns the skills that enable the
+student to study independently and then to use the information from this study in an
+interactive environment. This would allow for courses that consist of large numbers of
+students and that encourage thought through participatory methods.
+Note : Some of the above views relate to my own experiences as an undergraduate where
+lectures seemed to be an extreme waste of time. I would have preferred to have the whole
+course at the beginning and to have worked through it at my own pace.
+References
+BLIGH, D.A., 1972, What’s the use of lectures?, Penguin.
+DENNING, P.J., COMER, D.E., GRIES, D., MULDER, M.C., TUCKER, A., TURNER, A.J., YOUNG,
+P.R., 1988, Report of the ACM Task Force on the Core of Computer Science. ACM
+Press.
+HILLS, P.J., 1976, The Self-Teaching Process in Higher Education, Croom Helm.
+KELLER, F.S. AND SHERMAN, J.G., 1974, The Keller Plan handbook: essays on a personalized
+system of instruction, Benjamin.
+MCLEISH, J., 1968, The Lecture Method, Cambridge Institute of Education.
+NEWBLE, D. AND CANNON, R., 1989, A Handbook for Teachers in Universities & Colleges,
+Kogan Page.
+REGES, S., MCGRORY, J. AND SMITH, J., 1988, The Effective Use of Undergraduates to Staff
+Large Introductory CS Courses, SIGCSE Bulletin, 20(1), Feb 1988, 22-26.
+TUCKER, A. AND BARNES, B., 1991, Computing Curricula 1991. Comm ACM, 34(6), Jun
+1991, 69-84.
+YORKE, D.M., 1981, Patterns of Teaching, Council for Educational Technology
+HYPERTEXT AND HYPERMEDIA
+Recently there has been much hype about hypermedia especially with respect to its
+application to education. I would like to take a more cautious look at the implications of
+hypermedia for education. The general focus of this essay is to investigate problems raised in
+the literature about using hypertext, hypermedia and multimedia for teaching, primarily with
+reference to tertiary education. Since these are general issues that relate to teaching tools, I
+will not specifically discuss the teaching of Computer Science. When I was reading the
+literature, I discovered that it was often difficult to determine what type of interaction the
+student was expected to have with the hypermedia, and I will present a classification scheme
+that describes 8 different levels of interaction. I will give some examples of hypermedia
+systems that are used for teaching and classify them according to the eight levels. Finally I
+will outline some problems that occur when using hypermedia in teaching.
+First I will give some definitions of hypertext and hypermedia/multimedia. Jakob Nielsen
+uses the following definition:
+“Hypertext is non-sequentially linked pieces of text and other information. If the focus
+of such a system or document is on non-textual types (for example graphics, sound,
+moving images from videodisks, executable programs) of information, the term
+hypermedia is often used instead. In traditional printed documents, practically the only
+such link supported is the footnote, so hypertext is often referred to as “the generalised
+footnote”.” [Nielsen 1988]
+Marchionini differentiates between hypermedia systems and the products of such systems:
+“The term “hypertext” describes the electronic representation of text that takes
+advantage of the random access capabilities of computers to overcome the strictly
+sequential medium of print on paper. “Hypermedia” extends the nonlinear
+representation and access to graphics, sound, animation, and other forms of information
+transfer. To distinguish between the hypermedia system used to create and display
+information, and documents created and used with this system, the term
+“hyperdocument” is used to refer to the actual text, lesson, or product.” [Marchionini
+1988]
+Hyperdocuments consist of nodes and links. Nodes contain information, and links are
+relations between pieces of information in the nodes. Links can be unidirectional or
+bidirectional. There are a number of different hypertext and hypermedia systems and they
+take different approaches to implementing these principles. I will not discuss these
+differences in detail
+Often it is not clear for what level of interaction, educational hypermedia systems are
+designed, and I have developed a classification system to describe these different types of
+interaction. (a) is the most restricted type of interaction and (h) the least restricted. The
+classification is as follows:
+(a) The user follows a predetermined path. This is a linear approach and is also called a
+guided tour [Trigg 1988]. It can be useful when introducing users to a hypermedia
+environment.
+(b) The user chooses a path. This is called navigation and relates to browsing [Marchionini
+and Shneiderman 1988].
+(c) The user “trail-blazes”. This means navigating a path and storing it for other users to
+follow.
+(d) The user employs non-hypermedia search techniques such as Boolean connectives, string
+search and proximity limits. This relates to fact finding [Marchionini and Shneiderman
+1988].
+(e) The user adds new links between pieces of information. This allows other users to follow
+new paths.
+(f) The user adds new information to nodes, without adding new links. This is called
+annotation although this term is sometimes used to refer to (g).
+(g) The user adds new nodes and new links to an existing hyperdocument
+(h) The user creates a new hyperdocument. This is called hypermedia authoring or
+composing.
+I will now investigate some hypermedia systems that are used for teaching and classify them
+according to the above list.
+• Multimedia Works allows students to create their own hyperdocuments using a small
+database of text, pictures and video clips related to a given topic [Pea 1991, Soloway
+1991]. They do this in small groups and then present the final product to their classmates
+and teacher. A major problem that I see with this approach is an emphasis on presentation
+as opposed to content. It also seems a very expensive and very time consuming method of
+learning. The fact that it is time-consuming is not necessarily a criticism, if it can be
+shown that it is an effective method of learning. However this has not yet been shown.
+Multimedia Works is aimed more at primary and early secondary education. This would
+be classified as type (h).
+• The Perseus Project is an interactive hypermedia system that is managed as a journal
+[Crane and Mylonas 1988]. Its emphasis is material concerned with Greek civilisation. Its
+aims are for first year students to learn to use material in an analytical way, and to build
+an environment in which different kinds of knowledge are accessible. I think that some
+filtering mechanism is needed, especially when there is very technical and detaile
+knowledge required for experts present in the hyperdocuments, as first year students are
+likely to want more simplified knowledge. This is classified as (b).
+• The use of hypermedia in computer science has generally been related to programming
+using HyperTalk, the scripting language of HyperCard [Katz and Porter 1991; Fritz
+1991]. This can be classified as (h), however the emphasis is more on the process of
+scripting the hyperdocuments than on the final hyperdocument.
+• A plant cell biology course and English literature course have been implemented in
+Intermedia [Yankelovich et al 1988]. There were 8 authors, and 80 students using the
+hyperdocuments as browsers. This is a type (b) interaction, although some students did
+create their own documents. Intermedia provides webs which contain a subset of node
+and link information and users can add node and link information to their own webs.
+Intermedia therefore allows all interaction types.
+• Project Jefferson is a hypertext system to assist first year students in writing assignments
+about the American Constitution [Parsaye et al 1989]. Students browse the hyper
+document and can “take photographs” of information found and then use that information
+in the word processor that is provided. This is also a type (b) interaction.
+Although the above list is not complete, it seems that most hypermedia educational systems
+are geared towards browsing (b) or full authoring (h). I feel that the other types of interaction
+especially (c) to (g) offer scope for further development.
+A number of problems that relate to using hypermedia for teaching have been identified in
+the literature and I would like to discuss these briefly. There are three areas that will be
+discussed - navigational support, authoring of hyperdocuments for teaching purposes and
+learners’ usage of hypermedia.
+It is easy for users to become “lost in hyperspace” or disoriented. Wright [Nielsen 1989b]
+identifies five navigational issues:- going to a known place, going to an ill-defined place,
+going back, going somewhere new and knowing how much information there is. These issues
+can be resolved by providing navigational support. Navigational support can be given by
+overview mechanisms which allow the user to see “where” they are and filtering mechanisms
+which restrict which nodes and links a user can access. Filtering becomes even more
+important when users can add their own links, as a hyperdocument with too many links is as
+bad as one with too few.
+Blattner and Dannenberg [Blattner and Dannenberg 1990] note that currently hypermedia
+composition is intuitive and that not enough is known about the design of hyperdocuments.
+Wright points out that the cognitive costs on authors is high [Nielsen 1989a], therefore it
+would be undesirable for teachers to have to create their own hypermedia, in fact experts are
+required to design hyperdocuments [Morariu 1988]. If the aim of hypermedia is to cater for
+different styles of learning, then designers must ensure that they do supply these capabilities.
+Teachers also need the tools to assess learner progress and to check that the student has not
+gained incorrect concepts in their self-directed learning [Morariu 1988]. Marchionini
+[Marchionini 1988] notes that hypermedia gives learners freedom of choice, but that
+educators must now develop methods for learners to manage this choice.
+One of hypermedia’s claims is that it models human associative memory [Marchionini 1988],
+however as it is not known exactly how humans’ learn, this cannot be verified. Waller
+[Nielsen 1989a] points out that there will be cultural problems in coming to grips with new
+types of media and that it will take time for the full implications and usage to emerge.
+Students will need to develop new skills to be able to deal with hypermedia and this will be
+problematic as there are no role models to learn these skills from.
+Hypertext, hypermedia and multimedia appear to be interesting tools to use in education,
+however their implications are not fully understood and they should not be seen as a panacea
+for all educational ills. Only time will tell what the full application of these tools will be, and
+their advocates need to remember that “the goal isn’t multimedia, but effective
+communications” [Grimes and Potel, 1991].
+References
+BLATTNER, M.M. AND DANNENBERG, R.B., 1990, CHI ‘90 Workshop on Multimedia and
+Multimodal Interface Design, SIGCHI 22(2), October 1990, 54-58.
+CRANE, G. AND MYLONAS, E., 1988, The Perseus Project: An Interactive Curriculum on
+Classical Greek Civilisation, Educational Technology 28(11), November 1988, 25-
+32.
+FRITZ, J.M., 1991, HyperCard Applications for Teaching Information Systems, SIGCSE
+Bulletin, 23(1), March 1991, 55-61.
+GRIMES, J. AND POTEL, M., 1991, What is Multimedia?, IEEE Computer Graphics and
+Applications, 11(1), January 1991, 49-52.
+KATZ, E.E. AND PORTER, H.S., 1991, HyperTalk as an Overture to CS1, SIGCSE Bulletin,
+23(1), March 1991, 48-54.
+MARCHIONINI, G., 1988, Hypermedia and Learning: Freedom and Chaos, Educational
+Technology 28(11), November 1988, 8-12.
+MARCHIONINI, G. AND SHNEIDERMAN, B., 1988, Finding Facts vs. Browsing Knowledge in
+Hypertext Systems, Computer, January 1988, 70-80.
+MORARIU, J., 1988, Hypermedia in Instruction and Training: The Power and the Promise,
+Educational Technology 28(11), November 1988, 17-20
+NIELSEN, J., 1988, Trip Report: Hypertext ‘87, SIGCHI, 19(4), April 1988, 27-35.
+NIELSEN, J., 1989a, HyperHyper: Developments Across the Field of Hypermedia - A Mini
+Trip Report, SIGCHI, 21(1), July 1989, 65-67.
+NIELSEN, J., 1989b, Hypertext II, SIGCHI, 21(2), October 1989, 41-47.
+PARSAYE, K., CHIGNELL, M., KHOSHAFIAN, S. AND WONG, H., 1989, Intelligent Databases:
+Object-Oriented, Deductive Hypermedia Technologies, John Wiley.
+PEA, R.D., 1991, Learning through Multimedia, IEEE Computer Graphics and Applications,
+11(6), July 1991, 58-66.
+SOLOWAY, E., 1991, How the Nintendo Generation Learns, Communications of ACM, 34(9),
+September 1991, 23-26.
+TRIGG, R.H., 1988, Guided Tours and Tabletops: Tools for Communicating in a Hypertext
+Environment, ACM Transactions on Office Information Systems, 6(4), October 1988,
+398-414.
+YANKELOVICH, N., HAAN, B.J., MEYROWITZ, N.K. AND DRUCKER, S.M., 1988, Intermedia:
+The Concept and Construction of A Seamless Information Environment, Computer,
+January 1988, 81-96.
